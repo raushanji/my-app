@@ -1,0 +1,137 @@
+<!-- <div class="form-group">
+    <label for="formGroupExampleInput">Example label</label>
+    <input type="text" [formControl]="testControl" class="form-control" id="formGroupExampleInput" placeholder="Example input">
+  </div>
+
+
+  <div>
+    valid : {{ testControl.valid }} <br>
+    touched : {{ testControl.touched }} <br>
+    dirty : {{ testControl.dirty }} <br>
+    value : {{ testControl.value }}
+  </div> -->
+
+
+<!-- Form Grouop -->
+<form [formGroup]="loginForm" (ngSubmit)="submitValues()">
+
+  <!-- Email Field -->
+
+  <div class="form-group">
+    <label for="formGroupExampleInput">Email label</label>
+    <input type="text" formControlName="email" class="form-control" id="formGroupExampleInput" placeholder="Email input">
+  </div>
+
+  <!-- Required Error -->
+  <div class="alert alert-danger" role="alert" *ngIf="loginForm.controls.email.touched && loginForm.controls.email.errors?.required">
+    <strong>Oh snap!</strong> this Field is required.
+  </div>
+
+  <!--  Email Error -->
+  <div class="alert alert-danger" role="alert" *ngIf="emailControl.touched && emailControl.errors?.email">
+    <strong>Oh snap!</strong> Not a valid email.
+  </div>
+
+  <div class="alert alert-danger" role="alert" *ngIf="emailControl.touched && emailControl.errors?.includeSpace">
+    <strong>Oh snap!</strong> Space.
+  </div>
+
+
+  <div class="form-group">
+    <label for="formGroupExampleInput2">Password label</label>
+    <input type="text" formControlName="password" class="form-control" id="formGroupExampleInput2" placeholder="Password input">
+  </div>
+
+  <!-- Required Error  for password -->
+  <div class="alert alert-danger" role="alert" *ngIf="loginForm.get('password').touched && loginForm.get('password').hasError('required')">
+    <strong>Oh snap!</strong> this Field is required.
+  </div>
+
+  <!-- Address Group -->
+
+  <!-- <div formGroupName="address">
+
+    <input class="form-control mb-3" placeholder="Addres Line1" type="text" formControlName="addressLine1">
+    <input class="form-control mb-3" placeholder="Address Line2" type="text" formControlName="addressLine2">
+
+    <select class="custom-select mb-3" formControlName="city">
+      <option selected="">Open this select menu</option>
+      <option value="1">One</option>
+      <option value="2">Two</option>
+      <option value="3">Three</option>
+
+
+      <option *ngFor="let city of cities" value="city">{{ city }}</option>
+
+    </select>
+
+
+    <input class="form-control mb-3" placeholder="State" type="text" formControlName="state">
+
+  </div> -->
+
+  <!-- formArray -->
+
+  <div class="text-center my-4">
+    <button class="btn btn-primary" type="button" (click)="addGroup()">
+      Add Address
+    </button>
+  </div>
+
+  <div formArrayName="address">
+
+    <div *ngFor="let add of loginForm.get('address').controls; let i = index" class="border border-success p-4 mb-3">
+
+      <!-- <div [formGroup]="add"> -->
+      <div formGroupName="{{i}}">
+
+        <h3> Address - {{ i }} </h3>
+
+        <button type="button" class="btn btn-danger mb-3" (click)="removeGroup(i)">Remove This Address</button>
+
+        <input class="form-control mb-3" placeholder="Addres Line1" type="text" formControlName="addressLine1">
+        <input class="form-control mb-3" placeholder="Address Line2" type="text" formControlName="addressLine2">
+
+        <select class="custom-select mb-3" formControlName="city">
+          <option selected="">Open this select menu</option>
+          <option value="1">One</option>
+          <option value="2">Two</option>
+          <option value="3">Three</option>
+
+
+          <!-- <option *ngFor="let city of cities" value="city">{{ city }}</option> -->
+
+        </select>
+
+
+        <input class="form-control mb-3" placeholder="State" type="text" formControlName="state">
+
+      </div>
+
+    </div>
+
+  </div>
+
+  <div class="text-center">
+    <button class="btn btn-primary">
+      Submit Form
+    </button>
+  </div>
+
+</form>
+
+<!-- <button class="btn btn-success" (click)="displayGroup()"> Test Button </button> -->
+
+<div class="w-100 text-center mt-4">
+  <button class="btn btn-success" (click)="prefillValues()">
+    Click to set value
+  </button>
+</div>
+
+<!-- Form State -->
+<div>
+  valid : {{ loginForm.valid }} <br>
+  touched : {{ loginForm.touched }} <br>
+  dirty : {{ loginForm.dirty }} <br>
+  value : {{ loginForm.value | json }}
+</div>

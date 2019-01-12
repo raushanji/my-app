@@ -1,0 +1,27 @@
+<p>
+  parent works!
+</p>
+
+<div>
+  <label for='parentInput'>Parent_input : </label>
+  <input type='text' id='parentInput' #parentValue (keyup)='0'>
+
+  <!-- {{parentValue | json}}
+  {{parentValue.value}} -->
+
+  <p style="color:green">{{childData}}</p>
+
+  <label for='parentSecondInput'>Parent_Second_input : </label>
+  <input type='text' id='parentSecondInput' #parentSecondValue (keyup)='0'>
+
+</div>
+
+<app-child [valueFromParent]='parentValue.value' [valueFromSecond]='parentSecondValue.value' (childEventValue)='childData = $event'></app-child>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>

@@ -1,0 +1,12 @@
+<div class="jumbotron">
+
+<h1>{{title}}</h1>
+<h2>My favourate Hero is : {{myHero.name}} !</h2>
+<p>List of Heroes:</p>
+<ul>
+   <li *ngFor="let hero of heroes" class="heroSize">
+     {{hero.name}}
+   </li>  
+</ul>
+
+</div>

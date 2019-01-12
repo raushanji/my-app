@@ -1,0 +1,100 @@
+<!-- <p>
+  city works!
+</p>
+<div class="container">
+  Enter Name : 
+  <input type="text" [(ngModel)]="searchText" placeholder="Type Full Country Name...">
+  <br><br>
+<table class="table border">
+  <thead>
+    <tr>
+      <th scope="col">ID</th>
+      <th scope="col">NAME</th>
+      <th scope="col">COUNTRY</th>
+      <th scope="col">LON</th>
+      <th scope="col">LAT</th>
+    </tr>
+  </thead>
+  <tbody *ngFor="let runner of cityList | filter:'name':searchText">
+    <tr>
+      {{runner.id}}
+      <td>
+        {{runner.name}}
+      </td>
+      <td>
+        {{runner.country}}
+      </td>
+      <td>
+        {{runner.coord.lon}}
+      </td>
+      <td>
+        {{runner.coord.lat}}
+      </td>
+
+    </tr>
+
+  </tbody>
+</table>
+
+</div> -->
+
+
+
+<div class="container-fluid">
+  <div class='row'>
+    <div class="col-sm-7" style="overflow: scroll;height: 100vh">
+      <p>
+        city works!
+      </p>
+      Enter Name :
+      <input type="text" [(ngModel)]="searchText" placeholder="Type Full Country Name...">
+
+      <table class="table border">
+        <thead>
+          <tr>
+            <th scope="col">ID</th>
+            <th scope="col">NAME</th>
+            <th scope="col">COUNTRY</th>
+            <th scope="col">LON</th>
+            <th scope="col">LAT</th>
+          </tr>
+        </thead>
+        <tbody *ngFor="let runner of cityList | filter:'name':searchText">
+          <tr>
+            {{runner.id}}
+            <td (click)="setCity(runner.name)">
+              {{runner.name}}
+            </td>
+            <td>
+              {{runner.country}}
+            </td>
+            <td>
+              {{runner.coord.lon}}
+            </td>
+            <td>
+              {{runner.coord.lat}}
+            </td>
+
+          </tr>
+
+        </tbody>
+      </table>
+    </div>
+
+
+
+    <div class="col-sm-5" style="margin-top: 10px ;overflow: scroll;height: 100vh">
+      &nbsp;
+      <label>City Name:</label>
+      <input type="text" [(ngModel)]="city" placeholder="London">
+      <span> &nbsp; </span>
+      <input type="button" value='SUBMIT' (click)='getCityWeatherDatas(city)'>
+      <span> &nbsp; </span>
+      <input type="reset" (click)="reset()">
+      <pre style="background-color: aqua;border: 5px">
+      <p>{{errorMessage}}</p>
+   {{weatherData}}
+  </pre>
+    </div>
+  </div>
+</div>

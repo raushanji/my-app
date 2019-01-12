@@ -1,0 +1,37 @@
+<div>
+
+<label for='inputBox'></label>
+<input type='text' name='inputBox' [value] = 'txt' (input) = "txt = $event.target.value">
+
+<p>{{txt}}</p>
+
+<br>
+<br>
+<!-- <p>{{$event.target.value | json}}</p>-->
+
+<p>Displaying the $event values</p>
+<div>
+  <input (keyup) = 'onKeyUp($event)'>
+  <p>{{values}}</p>  
+</div>
+
+<!-- Using ngModel-->
+
+<input [(ngModel)] = 'textVal'>
+<p>{{textVal}}</p>
+</div>
+
+<div>
+<div [ngClass]="
+{
+  'saveable': this.clicked,
+  'modified': this.clicked,
+  'special':  this.clicked,
+  'color' : this.clicked,
+  'fontFamily': this.clicked
+}">This div is initially saveable, unchanged, and special
+</div>
+<button (click) = "changeCss()">Change CSS</button> 
+</div>
+
+

@@ -1,0 +1,2126 @@
+[
+  {
+    "id": 2775887,
+    "name": "India",
+    "country": "AT",
+    "coord": {
+      "lon": 16.283331,
+      "lat": 47.650002
+    }
+  },
+  {
+    "id": 7872659,
+    "name": "London",
+    "country": "AT",
+    "coord": {
+      "lon": 9.62244,
+      "lat": 47.482121
+    }
+  },
+  {
+    "id": 2775950,
+    "name": "Hochst",
+    "country": "AT",
+    "coord": {
+      "lon": 9.6405,
+      "lat": 47.459339
+    }
+  },
+  {
+    "id": 7872557,
+    "name": "Hochfilzen",
+    "country": "AT",
+    "coord": {
+      "lon": 12.63914,
+      "lat": 47.476631
+    }
+  },
+  {
+    "id": 2776069,
+    "name": "Hochfilzen",
+    "country": "AT",
+    "coord": {
+      "lon": 12.61667,
+      "lat": 47.466671
+    }
+  },
+  {
+    "id": 7872333,
+    "name": "Hitzendorf",
+    "country": "AT",
+    "coord": {
+      "lon": 15.30443,
+      "lat": 47.03442
+    }
+  },
+  {
+    "id": 2776153,
+    "name": "Hitzendorf",
+    "country": "AT",
+    "coord": {
+      "lon": 15.3,
+      "lat": 47.033329
+    }
+  },
+  {
+    "id": 7872838,
+    "name": "Hirtenberg",
+    "country": "AT",
+    "coord": {
+      "lon": 16.179661,
+      "lat": 47.932411
+    }
+  },
+  {
+    "id": 2776161,
+    "name": "Hirtenberg",
+    "country": "AT",
+    "coord": {
+      "lon": 16.179079,
+      "lat": 47.93095
+    }
+  },
+  {
+    "id": 7871756,
+    "name": "Hirschbach",
+    "country": "AT",
+    "coord": {
+      "lon": 15.11907,
+      "lat": 48.746712
+    }
+  },
+  {
+    "id": 2776190,
+    "name": "Hirschbach",
+    "country": "AT",
+    "coord": {
+      "lon": 15.11667,
+      "lat": 48.73333
+    }
+  },
+  {
+    "id": 7873562,
+    "name": "Hirnsdorf",
+    "country": "AT",
+    "coord": {
+      "lon": 15.82582,
+      "lat": 47.191891
+    }
+  },
+  {
+    "id": 2776194,
+    "name": "Hirnsdorf",
+    "country": "AT",
+    "coord": {
+      "lon": 15.81667,
+      "lat": 47.183331
+    }
+  },
+  {
+    "id": 7872706,
+    "name": "Hirm",
+    "country": "AT",
+    "coord": {
+      "lon": 16.451441,
+      "lat": 47.790379
+    }
+  },
+  {
+    "id": 2776197,
+    "name": "Hirm",
+    "country": "AT",
+    "coord": {
+      "lon": 16.454599,
+      "lat": 47.786518
+    }
+  },
+  {
+    "id": 7873707,
+    "name": "Hippach",
+    "country": "AT",
+    "coord": {
+      "lon": 11.81238,
+      "lat": 47.21632
+    }
+  },
+  {
+    "id": 2776204,
+    "name": "Hippach",
+    "country": "AT",
+    "coord": {
+      "lon": 11.86523,
+      "lat": 47.20435
+    }
+  },
+  {
+    "id": 7873298,
+    "name": "Hintersee",
+    "country": "AT",
+    "coord": {
+      "lon": 13.29267,
+      "lat": 47.714378
+    }
+  },
+  {
+    "id": 2776240,
+    "name": "Hintersee",
+    "country": "AT",
+    "coord": {
+      "lon": 13.28333,
+      "lat": 47.700001
+    }
+  },
+  {
+    "id": 7871853,
+    "name": "Hinterbrühl",
+    "country": "AT",
+    "coord": {
+      "lon": 16.2164,
+      "lat": 48.08123
+    }
+  },
+  {
+    "id": 2776358,
+    "name": "Hinterbruehl",
+    "country": "AT",
+    "coord": {
+      "lon": 16.248091,
+      "lat": 48.086109
+    }
+  },
+  {
+    "id": 7871684,
+    "name": "Himmelberg",
+    "country": "AT",
+    "coord": {
+      "lon": 14.01636,
+      "lat": 46.74437
+    }
+  },
+  {
+    "id": 2776395,
+    "name": "Himmelberg",
+    "country": "AT",
+    "coord": {
+      "lon": 14.03056,
+      "lat": 46.756672
+    }
+  },
+  {
+    "id": 7871948,
+    "name": "Himberg",
+    "country": "AT",
+    "coord": {
+      "lon": 16.448009,
+      "lat": 48.06443
+    }
+  },
+  {
+    "id": 2776401,
+    "name": "Himberg",
+    "country": "AT",
+    "coord": {
+      "lon": 16.433331,
+      "lat": 48.083328
+    }
+  },
+  {
+    "id": 7872423,
+    "name": "Hieflau",
+    "country": "AT",
+    "coord": {
+      "lon": 14.76899,
+      "lat": 47.591709
+    }
+  },
+  {
+    "id": 2776433,
+    "name": "Hieflau",
+    "country": "AT",
+    "coord": {
+      "lon": 14.73333,
+      "lat": 47.599998
+    }
+  },
+  {
+    "id": 7871561,
+    "name": "Heugraben",
+    "country": "AT",
+    "coord": {
+      "lon": 16.19894,
+      "lat": 47.115898
+    }
+  },
+  {
+    "id": 2776441,
+    "name": "Heugraben",
+    "country": "AT",
+    "coord": {
+      "lon": 16.183331,
+      "lat": 47.116669
+    }
+  },
+  {
+    "id": 7872151,
+    "name": "Herzogsdorf",
+    "country": "AT",
+    "coord": {
+      "lon": 14.11417,
+      "lat": 48.430229
+    }
+  },
+  {
+    "id": 2776467,
+    "name": "Herzogsdorf",
+    "country": "AT",
+    "coord": {
+      "lon": 14.1128,
+      "lat": 48.430111
+    }
+  },
+  {
+    "id": 7873014,
+    "name": "Herzogenburg",
+    "country": "AT",
+    "coord": {
+      "lon": 15.73137,
+      "lat": 48.290531
+    }
+  },
+  {
+    "id": 2776470,
+    "name": "Herzogenburg",
+    "country": "AT",
+    "coord": {
+      "lon": 15.69431,
+      "lat": 48.281368
+    }
+  },
+  {
+    "id": 7872961,
+    "name": "Herrnbaumgarten",
+    "country": "AT",
+    "coord": {
+      "lon": 16.69459,
+      "lat": 48.69545
+    }
+  },
+  {
+    "id": 2776479,
+    "name": "Herrnbaumgarten",
+    "country": "AT",
+    "coord": {
+      "lon": 16.683331,
+      "lat": 48.683331
+    }
+  },
+  {
+    "id": 7873297,
+    "name": "Henndorf am Wallersee",
+    "country": "AT",
+    "coord": {
+      "lon": 13.20529,
+      "lat": 47.894821
+    }
+  },
+  {
+    "id": 2776513,
+    "name": "Henndorf am Wallersee",
+    "country": "AT",
+    "coord": {
+      "lon": 13.18333,
+      "lat": 47.900002
+    }
+  },
+  {
+    "id": 7873466,
+    "name": "Hengsberg",
+    "country": "AT",
+    "coord": {
+      "lon": 15.45441,
+      "lat": 46.868511
+    }
+  },
+  {
+    "id": 2776523,
+    "name": "Hengsberg",
+    "country": "AT",
+    "coord": {
+      "lon": 15.43333,
+      "lat": 46.866669
+    }
+  },
+  {
+    "id": 7873239,
+    "name": "Hellmonsödt",
+    "country": "AT",
+    "coord": {
+      "lon": 14.29896,
+      "lat": 48.432281
+    }
+  },
+  {
+    "id": 2776531,
+    "name": "Hellmonsodt",
+    "country": "AT",
+    "coord": {
+      "lon": 14.3,
+      "lat": 48.433331
+    }
+  },
+  {
+    "id": 7873686,
+    "name": "Heiterwang",
+    "country": "AT",
+    "coord": {
+      "lon": 10.76526,
+      "lat": 47.446491
+    }
+  },
+  {
+    "id": 2776546,
+    "name": "Heiterwang",
+    "country": "AT",
+    "coord": {
+      "lon": 10.75,
+      "lat": 47.450001
+    }
+  },
+  {
+    "id": 7871565,
+    "name": "Heiligenkreuz im Lafnitztal",
+    "country": "AT",
+    "coord": {
+      "lon": 16.253139,
+      "lat": 46.9944
+    }
+  },
+  {
+    "id": 2776582,
+    "name": "Heiligenkreuz im Lafnitztal",
+    "country": "AT",
+    "coord": {
+      "lon": 16.26083,
+      "lat": 46.98917
+    }
+  },
+  {
+    "id": 7872404,
+    "name": "Heiligenkreuz am Waasen",
+    "country": "AT",
+    "coord": {
+      "lon": 15.57839,
+      "lat": 46.948891
+    }
+  },
+  {
+    "id": 2776583,
+    "name": "Heiligenkreuz am Waasen",
+    "country": "AT",
+    "coord": {
+      "lon": 15.58806,
+      "lat": 46.95583
+    }
+  },
+  {
+    "id": 7871707,
+    "name": "Heiligenkreuz",
+    "country": "AT",
+    "coord": {
+      "lon": 16.15292,
+      "lat": 48.04261
+    }
+  },
+  {
+    "id": 2776586,
+    "name": "Heiligenkreuz",
+    "country": "AT",
+    "coord": {
+      "lon": 16.124929,
+      "lat": 48.055592
+    }
+  },
+  {
+    "id": 7871551,
+    "name": "Heiligenbrunn",
+    "country": "AT",
+    "coord": {
+      "lon": 16.436251,
+      "lat": 47.016109
+    }
+  },
+  {
+    "id": 2776594,
+    "name": "Heiligenbrunn",
+    "country": "AT",
+    "coord": {
+      "lon": 16.41667,
+      "lat": 47.033329
+    }
+  },
+  {
+    "id": 7872779,
+    "name": "Heiligenblut",
+    "country": "AT",
+    "coord": {
+      "lon": 12.80439,
+      "lat": 47.049179
+    }
+  },
+  {
+    "id": 2776595,
+    "name": "Heiligenblut",
+    "country": "AT",
+    "coord": {
+      "lon": 12.84345,
+      "lat": 47.039791
+    }
+  },
+  {
+    "id": 7872877,
+    "name": "Heidenreichstein",
+    "country": "AT",
+    "coord": {
+      "lon": 15.1151,
+      "lat": 48.858292
+    }
+  },
+  {
+    "id": 2776603,
+    "name": "Heidenreichstein",
+    "country": "AT",
+    "coord": {
+      "lon": 15.11667,
+      "lat": 48.866669
+    }
+  },
+  {
+    "id": 7873403,
+    "name": "Hausmannstätten",
+    "country": "AT",
+    "coord": {
+      "lon": 15.52118,
+      "lat": 46.991268
+    }
+  },
+  {
+    "id": 2776632,
+    "name": "Hausmannstatten",
+    "country": "AT",
+    "coord": {
+      "lon": 15.51139,
+      "lat": 46.991112
+    }
+  },
+  {
+    "id": 7871789,
+    "name": "Hausleiten",
+    "country": "AT",
+    "coord": {
+      "lon": 16.100269,
+      "lat": 48.39286
+    }
+  },
+  {
+    "id": 2776641,
+    "name": "Hausleiten",
+    "country": "AT",
+    "coord": {
+      "lon": 16.1,
+      "lat": 48.383331
+    }
+  },
+  {
+    "id": 7872864,
+    "name": "Hauskirchen",
+    "country": "AT",
+    "coord": {
+      "lon": 16.73414,
+      "lat": 48.602879
+    }
+  },
+  {
+    "id": 2776648,
+    "name": "Hauskirchen",
+    "country": "AT",
+    "coord": {
+      "lon": 16.76667,
+      "lat": 48.599998
+    }
+  },
+  {
+    "id": 7872960,
+    "name": "Hausbrunn",
+    "country": "AT",
+    "coord": {
+      "lon": 16.837959,
+      "lat": 48.633701
+    }
+  },
+  {
+    "id": 2776660,
+    "name": "Hausbrunn",
+    "country": "AT",
+    "coord": {
+      "lon": 16.816669,
+      "lat": 48.616669
+    }
+  },
+  {
+    "id": 7872440,
+    "name": "Haus",
+    "country": "AT",
+    "coord": {
+      "lon": 13.76369,
+      "lat": 47.419369
+    }
+  },
+  {
+    "id": 2776670,
+    "name": "Haus",
+    "country": "AT",
+    "coord": {
+      "lon": 13.76724,
+      "lat": 47.409969
+    }
+  },
+  {
+    "id": 7873013,
+    "name": "Haunoldstein",
+    "country": "AT",
+    "coord": {
+      "lon": 15.45307,
+      "lat": 48.19696
+    }
+  },
+  {
+    "id": 2776676,
+    "name": "Haunoldstein",
+    "country": "AT",
+    "coord": {
+      "lon": 15.45,
+      "lat": 48.200001
+    }
+  },
+  {
+    "id": 7871764,
+    "name": "Haugsdorf",
+    "country": "AT",
+    "coord": {
+      "lon": 16.074209,
+      "lat": 48.710621
+    }
+  },
+  {
+    "id": 2776681,
+    "name": "Haugsdorf",
+    "country": "AT",
+    "coord": {
+      "lon": 16.066669,
+      "lat": 48.700001
+    }
+  },
+  {
+    "id": 7872876,
+    "name": "Haugschlag",
+    "country": "AT",
+    "coord": {
+      "lon": 15.04408,
+      "lat": 48.99699
+    }
+  },
+  {
+    "id": 2776682,
+    "name": "Haugschlag",
+    "country": "AT",
+    "coord": {
+      "lon": 15.05,
+      "lat": 48.98333
+    }
+  },
+  {
+    "id": 7872291,
+    "name": "Hatzendorf",
+    "country": "AT",
+    "coord": {
+      "lon": 15.99862,
+      "lat": 46.98909
+    }
+  },
+  {
+    "id": 2776690,
+    "name": "Hatzendorf",
+    "country": "AT",
+    "coord": {
+      "lon": 15.99556,
+      "lat": 46.98111
+    }
+  },
+  {
+    "id": 7872535,
+    "name": "Hatting",
+    "country": "AT",
+    "coord": {
+      "lon": 11.15918,
+      "lat": 47.265491
+    }
+  },
+  {
+    "id": 2776693,
+    "name": "Hatting",
+    "country": "AT",
+    "coord": {
+      "lon": 11.16667,
+      "lat": 47.283329
+    }
+  },
+  {
+    "id": 7872616,
+    "name": "Häselgehr",
+    "country": "AT",
+    "coord": {
+      "lon": 10.48661,
+      "lat": 47.29958
+    }
+  },
+  {
+    "id": 2776748,
+    "name": "Haselgehr",
+    "country": "AT",
+    "coord": {
+      "lon": 10.5,
+      "lat": 47.316669
+    }
+  },
+  {
+    "id": 7873428,
+    "name": "Hartl",
+    "country": "AT",
+    "coord": {
+      "lon": 15.89937,
+      "lat": 47.193951
+    }
+  },
+  {
+    "id": 2776783,
+    "name": "Hartl",
+    "country": "AT",
+    "coord": {
+      "lon": 15.91667,
+      "lat": 47.183331
+    }
+  },
+  {
+    "id": 7873706,
+    "name": "Hart im Zillertal",
+    "country": "AT",
+    "coord": {
+      "lon": 11.9165,
+      "lat": 47.340191
+    }
+  },
+  {
+    "id": 2776791,
+    "name": "Hart im Zillertal",
+    "country": "AT",
+    "coord": {
+      "lon": 11.87201,
+      "lat": 47.352322
+    }
+  },
+  {
+    "id": 7873427,
+    "name": "Hartberg",
+    "country": "AT",
+    "coord": {
+      "lon": 15.98511,
+      "lat": 47.279491
+    }
+  },
+  {
+    "id": 2776801,
+    "name": "Hartberg",
+    "country": "AT",
+    "coord": {
+      "lon": 15.96667,
+      "lat": 47.283329
+    }
+  },
+  {
+    "id": 7871788,
+    "name": "Harmannsdorf",
+    "country": "AT",
+    "coord": {
+      "lon": 16.38047,
+      "lat": 48.413719
+    }
+  },
+  {
+    "id": 2776855,
+    "name": "Harmannsdorf",
+    "country": "AT",
+    "coord": {
+      "lon": 16.366671,
+      "lat": 48.383331
+    }
+  },
+  {
+    "id": 7871734,
+    "name": "Haringsee",
+    "country": "AT",
+    "coord": {
+      "lon": 16.770451,
+      "lat": 48.193562
+    }
+  },
+  {
+    "id": 2776864,
+    "name": "Haringsee",
+    "country": "AT",
+    "coord": {
+      "lon": 16.787411,
+      "lat": 48.192699
+    }
+  },
+  {
+    "id": 7873645,
+    "name": "Bad Häring",
+    "country": "AT",
+    "coord": {
+      "lon": 12.12334,
+      "lat": 47.506458
+    }
+  },
+  {
+    "id": 2776866,
+    "name": "Bad Haering",
+    "country": "AT",
+    "coord": {
+      "lon": 12.11667,
+      "lat": 47.5
+    }
+  },
+  {
+    "id": 7873733,
+    "name": "Hard",
+    "country": "AT",
+    "coord": {
+      "lon": 9.68061,
+      "lat": 47.494099
+    }
+  },
+  {
+    "id": 2776874,
+    "name": "Hard",
+    "country": "AT",
+    "coord": {
+      "lon": 9.68306,
+      "lat": 47.483059
+    }
+  },
+  {
+    "id": 7872739,
+    "name": "Hannersdorf",
+    "country": "AT",
+    "coord": {
+      "lon": 16.392879,
+      "lat": 47.2206
+    }
+  },
+  {
+    "id": 2776891,
+    "name": "Hannersdorf",
+    "country": "AT",
+    "coord": {
+      "lon": 16.383329,
+      "lat": 47.23333
+    }
+  },
+  {
+    "id": 7873296,
+    "name": "Hallwang",
+    "country": "AT",
+    "coord": {
+      "lon": 13.09128,
+      "lat": 47.84676
+    }
+  },
+  {
+    "id": 2776938,
+    "name": "Hallwang",
+    "country": "AT",
+    "coord": {
+      "lon": 13.08333,
+      "lat": 47.849998
+    }
+  },
+  {
+    "id": 7872439,
+    "name": "Hall",
+    "country": "AT",
+    "coord": {
+      "lon": 14.44597,
+      "lat": 47.617599
+    }
+  },
+  {
+    "id": 2776954,
+    "name": "Hall",
+    "country": "AT",
+    "coord": {
+      "lon": 14.45,
+      "lat": 47.599998
+    }
+  },
+  {
+    "id": 7872717,
+    "name": "Halbturn",
+    "country": "AT",
+    "coord": {
+      "lon": 17.00675,
+      "lat": 47.860531
+    }
+  },
+  {
+    "id": 2776957,
+    "name": "Halbturn",
+    "country": "AT",
+    "coord": {
+      "lon": 16.97542,
+      "lat": 47.87019
+    }
+  },
+  {
+    "id": 7873535,
+    "name": "Halbenrain",
+    "country": "AT",
+    "coord": {
+      "lon": 15.93143,
+      "lat": 46.73019
+    }
+  },
+  {
+    "id": 2776959,
+    "name": "Halbenrain",
+    "country": "AT",
+    "coord": {
+      "lon": 15.94667,
+      "lat": 46.721939
+    }
+  },
+  {
+    "id": 7872629,
+    "name": "Hainzenberg",
+    "country": "AT",
+    "coord": {
+      "lon": 11.93231,
+      "lat": 47.203049
+    }
+  },
+  {
+    "id": 2776970,
+    "name": "Hainzenberg",
+    "country": "AT",
+    "coord": {
+      "lon": 11.90034,
+      "lat": 47.21788
+    }
+  },
+  {
+    "id": 7873465,
+    "name": "Hainsdorf im Schwarzautal",
+    "country": "AT",
+    "coord": {
+      "lon": 15.64266,
+      "lat": 46.82774
+    }
+  },
+  {
+    "id": 2776975,
+    "name": "Hainsdorf im Schwarzautal",
+    "country": "AT",
+    "coord": {
+      "lon": 15.64139,
+      "lat": 46.835831
+    }
+  },
+  {
+    "id": 7872929,
+    "name": "Hainfeld",
+    "country": "AT",
+    "coord": {
+      "lon": 15.8017,
+      "lat": 48.039989
+    }
+  },
+  {
+    "id": 2776981,
+    "name": "Hainfeld",
+    "country": "AT",
+    "coord": {
+      "lon": 15.77414,
+      "lat": 48.033901
+    }
+  },
+  {
+    "id": 7873392,
+    "name": "Hainersdorf",
+    "country": "AT",
+    "coord": {
+      "lon": 15.95712,
+      "lat": 47.113499
+    }
+  },
+  {
+    "id": 2776982,
+    "name": "Hainersdorf",
+    "country": "AT",
+    "coord": {
+      "lon": 15.93333,
+      "lat": 47.116669
+    }
+  },
+  {
+    "id": 2776988,
+    "name": "Hainburg an der Donau",
+    "country": "AT",
+    "coord": {
+      "lon": 16.94504,
+      "lat": 48.146271
+    }
+  },
+  {
+    "id": 7872525,
+    "name": "Haiming",
+    "country": "AT",
+    "coord": {
+      "lon": 10.88699,
+      "lat": 47.243191
+    }
+  },
+  {
+    "id": 2777001,
+    "name": "Haiming",
+    "country": "AT",
+    "coord": {
+      "lon": 10.88333,
+      "lat": 47.25
+    }
+  },
+  {
+    "id": 7872822,
+    "name": "Haidershofen",
+    "country": "AT",
+    "coord": {
+      "lon": 14.50743,
+      "lat": 48.073051
+    }
+  },
+  {
+    "id": 2777015,
+    "name": "Haidershofen",
+    "country": "AT",
+    "coord": {
+      "lon": 14.45,
+      "lat": 48.066669
+    }
+  },
+  {
+    "id": 7873238,
+    "name": "Haibach im Mühlkreis",
+    "country": "AT",
+    "coord": {
+      "lon": 14.34463,
+      "lat": 48.44429
+    }
+  },
+  {
+    "id": 2777041,
+    "name": "Haibach im Muhlkreis",
+    "country": "AT",
+    "coord": {
+      "lon": 14.34411,
+      "lat": 48.44429
+    }
+  },
+  {
+    "id": 7871787,
+    "name": "Hagenbrunn",
+    "country": "AT",
+    "coord": {
+      "lon": 16.420771,
+      "lat": 48.338341
+    }
+  },
+  {
+    "id": 2777065,
+    "name": "Hagenbrunn",
+    "country": "AT",
+    "coord": {
+      "lon": 16.4,
+      "lat": 48.333328
+    }
+  },
+  {
+    "id": 7873482,
+    "name": "Hafning bei Trofaiach",
+    "country": "AT",
+    "coord": {
+      "lon": 15.02193,
+      "lat": 47.466221
+    }
+  },
+  {
+    "id": 2777077,
+    "name": "Hafning bei Trofaiach",
+    "country": "AT",
+    "coord": {
+      "lon": 15,
+      "lat": 47.433331
+    }
+  },
+  {
+    "id": 7871881,
+    "name": "Hafnerbach",
+    "country": "AT",
+    "coord": {
+      "lon": 15.48945,
+      "lat": 48.225189
+    }
+  },
+  {
+    "id": 2777082,
+    "name": "Hafnerbach",
+    "country": "AT",
+    "coord": {
+      "lon": 15.48333,
+      "lat": 48.216671
+    }
+  },
+  {
+    "id": 7872883,
+    "name": "Hadres",
+    "country": "AT",
+    "coord": {
+      "lon": 16.139111,
+      "lat": 48.707859
+    }
+  },
+  {
+    "id": 2777090,
+    "name": "Hadres",
+    "country": "AT",
+    "coord": {
+      "lon": 16.116671,
+      "lat": 48.700001
+    }
+  },
+  {
+    "id": 7871556,
+    "name": "Hackerberg",
+    "country": "AT",
+    "coord": {
+      "lon": 16.11269,
+      "lat": 47.191341
+    }
+  },
+  {
+    "id": 2777111,
+    "name": "Hackerberg",
+    "country": "AT",
+    "coord": {
+      "lon": 16.116671,
+      "lat": 47.200001
+    }
+  },
+  {
+    "id": 2777162,
+    "name": "Haag",
+    "country": "AT",
+    "coord": {
+      "lon": 15.5,
+      "lat": 48.150002
+    }
+  },
+  {
+    "id": 2777169,
+    "name": "Haag",
+    "country": "AT",
+    "coord": {
+      "lon": 14.55,
+      "lat": 48.099998
+    }
+  },
+  {
+    "id": 2777164,
+    "name": "Haag",
+    "country": "AT",
+    "coord": {
+      "lon": 14.56667,
+      "lat": 48.099998
+    }
+  },
+  {
+    "id": 2777165,
+    "name": "Haag",
+    "country": "AT",
+    "coord": {
+      "lon": 14.51667,
+      "lat": 48.049999
+    }
+  },
+  {
+    "id": 7871550,
+    "name": "Güttenbach",
+    "country": "AT",
+    "coord": {
+      "lon": 16.297171,
+      "lat": 47.168819
+    }
+  },
+  {
+    "id": 2777185,
+    "name": "Guttenbach",
+    "country": "AT",
+    "coord": {
+      "lon": 16.299999,
+      "lat": 47.166672
+    }
+  },
+  {
+    "id": 7872769,
+    "name": "Guttaring",
+    "country": "AT",
+    "coord": {
+      "lon": 14.50709,
+      "lat": 46.91785
+    }
+  },
+  {
+    "id": 2777189,
+    "name": "Guttaring",
+    "country": "AT",
+    "coord": {
+      "lon": 14.5,
+      "lat": 46.883331
+    }
+  },
+  {
+    "id": 7873053,
+    "name": "Gutenstein",
+    "country": "AT",
+    "coord": {
+      "lon": 15.85065,
+      "lat": 47.861931
+    }
+  },
+  {
+    "id": 2777196,
+    "name": "Gutenstein",
+    "country": "AT",
+    "coord": {
+      "lon": 15.88881,
+      "lat": 47.875999
+    }
+  },
+  {
+    "id": 7871958,
+    "name": "Gutenbrunn",
+    "country": "AT",
+    "coord": {
+      "lon": 15.09497,
+      "lat": 48.365311
+    }
+  },
+  {
+    "id": 2777205,
+    "name": "Gutenbrunn",
+    "country": "AT",
+    "coord": {
+      "lon": 15.11667,
+      "lat": 48.349998
+    }
+  },
+  {
+    "id": 7871643,
+    "name": "Gurk",
+    "country": "AT",
+    "coord": {
+      "lon": 14.28204,
+      "lat": 46.85622
+    }
+  },
+  {
+    "id": 2777237,
+    "name": "Gurk",
+    "country": "AT",
+    "coord": {
+      "lon": 14.29167,
+      "lat": 46.87389
+    }
+  },
+  {
+    "id": 7872978,
+    "name": "Guntramsdorf",
+    "country": "AT",
+    "coord": {
+      "lon": 16.3241,
+      "lat": 48.04808
+    }
+  },
+  {
+    "id": 2777250,
+    "name": "Guntramsdorf",
+    "country": "AT",
+    "coord": {
+      "lon": 16.313841,
+      "lat": 48.046871
+    }
+  },
+  {
+    "id": 7872882,
+    "name": "Guntersdorf",
+    "country": "AT",
+    "coord": {
+      "lon": 16.023081,
+      "lat": 48.65324
+    }
+  },
+  {
+    "id": 2777252,
+    "name": "Guntersdorf",
+    "country": "AT",
+    "coord": {
+      "lon": 16.049999,
+      "lat": 48.650002
+    }
+  },
+  {
+    "id": 7871706,
+    "name": "Günselsdorf",
+    "country": "AT",
+    "coord": {
+      "lon": 16.27552,
+      "lat": 47.936668
+    }
+  },
+  {
+    "id": 2777259,
+    "name": "Gunselsdorf",
+    "country": "AT",
+    "coord": {
+      "lon": 16.26062,
+      "lat": 47.943951
+    }
+  },
+  {
+    "id": 7872265,
+    "name": "Gundersdorf",
+    "country": "AT",
+    "coord": {
+      "lon": 15.23988,
+      "lat": 46.952541
+    }
+  },
+  {
+    "id": 2777272,
+    "name": "Gundersdorf",
+    "country": "AT",
+    "coord": {
+      "lon": 15.23333,
+      "lat": 46.950001
+    }
+  },
+  {
+    "id": 7872977,
+    "name": "Gumpoldskirchen",
+    "country": "AT",
+    "coord": {
+      "lon": 16.279011,
+      "lat": 48.044392
+    }
+  },
+  {
+    "id": 2777279,
+    "name": "Gumpoldskirchen",
+    "country": "AT",
+    "coord": {
+      "lon": 16.2771,
+      "lat": 48.04538
+    }
+  },
+  {
+    "id": 7871862,
+    "name": "Grünbach am Schneeberg",
+    "country": "AT",
+    "coord": {
+      "lon": 15.98691,
+      "lat": 47.800709
+    }
+  },
+  {
+    "id": 2777454,
+    "name": "Grunbach am Schneeberg",
+    "country": "AT",
+    "coord": {
+      "lon": 15.98785,
+      "lat": 47.79747
+    }
+  },
+  {
+    "id": 7872011,
+    "name": "Grünau im Almtal",
+    "country": "AT",
+    "coord": {
+      "lon": 13.95624,
+      "lat": 47.854641
+    }
+  },
+  {
+    "id": 2777459,
+    "name": "Gruenau im Almtal",
+    "country": "AT",
+    "coord": {
+      "lon": 13.95573,
+      "lat": 47.854931
+    }
+  },
+  {
+    "id": 7871910,
+    "name": "Großweikersdorf",
+    "country": "AT",
+    "coord": {
+      "lon": 15.97983,
+      "lat": 48.46447
+    }
+  },
+  {
+    "id": 2777547,
+    "name": "Grossweikersdorf",
+    "country": "AT",
+    "coord": {
+      "lon": 15.98333,
+      "lat": 48.466671
+    }
+  },
+  {
+    "id": 7873494,
+    "name": "Großsölk",
+    "country": "AT",
+    "coord": {
+      "lon": 13.97332,
+      "lat": 47.410221
+    }
+  },
+  {
+    "id": 2777587,
+    "name": "Grosssolk",
+    "country": "AT",
+    "coord": {
+      "lon": 13.96667,
+      "lat": 47.416672
+    }
+  },
+  {
+    "id": 7873045,
+    "name": "Groß-Siegharts",
+    "country": "AT",
+    "coord": {
+      "lon": 15.41184,
+      "lat": 48.79681
+    }
+  },
+  {
+    "id": 2777590,
+    "name": "Gross-Siegharts",
+    "country": "AT",
+    "coord": {
+      "lon": 15.4,
+      "lat": 48.783329
+    }
+  },
+  {
+    "id": 7873353,
+    "name": "Groß Sankt Florian",
+    "country": "AT",
+    "coord": {
+      "lon": 15.31556,
+      "lat": 46.831539
+    }
+  },
+  {
+    "id": 2777603,
+    "name": "Gross Sankt Florian",
+    "country": "AT",
+    "coord": {
+      "lon": 15.31861,
+      "lat": 46.82444
+    }
+  },
+  {
+    "id": 7872906,
+    "name": "Großrußbach",
+    "country": "AT",
+    "coord": {
+      "lon": 16.39613,
+      "lat": 48.47541
+    }
+  },
+  {
+    "id": 2777605,
+    "name": "Grossrussbach",
+    "country": "AT",
+    "coord": {
+      "lon": 16.41667,
+      "lat": 48.466671
+    }
+  },
+  {
+    "id": 7871909,
+    "name": "Großriedenthal",
+    "country": "AT",
+    "coord": {
+      "lon": 15.88071,
+      "lat": 48.476521
+    }
+  },
+  {
+    "id": 2777607,
+    "name": "Grossriedenthal",
+    "country": "AT",
+    "coord": {
+      "lon": 15.86667,
+      "lat": 48.48333
+    }
+  },
+  {
+    "id": 2777627,
+    "name": "Grosspetersdorf",
+    "country": "AT",
+    "coord": {
+      "lon": 16.316669,
+      "lat": 47.23333
+    }
+  },
+  {
+    "id": 7871786,
+    "name": "Großmugl",
+    "country": "AT",
+    "coord": {
+      "lon": 16.237061,
+      "lat": 48.516251
+    }
+  },
+  {
+    "id": 2777641,
+    "name": "Grossmugl",
+    "country": "AT",
+    "coord": {
+      "lon": 16.23056,
+      "lat": 48.499168
+    }
+  },
+  {
+    "id": 7873450,
+    "name": "Großlobming",
+    "country": "AT",
+    "coord": {
+      "lon": 14.80399,
+      "lat": 47.18166
+    }
+  },
+  {
+    "id": 2777649,
+    "name": "Grosslobming",
+    "country": "AT",
+    "coord": {
+      "lon": 14.8,
+      "lat": 47.183331
+    }
+  },
+  {
+    "id": 7872959,
+    "name": "Großkrut",
+    "country": "AT",
+    "coord": {
+      "lon": 16.736719,
+      "lat": 48.652111
+    }
+  },
+  {
+    "id": 2777655,
+    "name": "Grosskrut",
+    "country": "AT",
+    "coord": {
+      "lon": 16.72361,
+      "lat": 48.64389
+    }
+  },
+  {
+    "id": 7873464,
+    "name": "Großklein",
+    "country": "AT",
+    "coord": {
+      "lon": 15.44065,
+      "lat": 46.73357
+    }
+  },
+  {
+    "id": 2777662,
+    "name": "Grossklein",
+    "country": "AT",
+    "coord": {
+      "lon": 15.44444,
+      "lat": 46.736111
+    }
+  },
+  {
+    "id": 7872863,
+    "name": "Großhofen",
+    "country": "AT",
+    "coord": {
+      "lon": 16.611059,
+      "lat": 48.251411
+    }
+  },
+  {
+    "id": 2777674,
+    "name": "Grosshofen",
+    "country": "AT",
+    "coord": {
+      "lon": 16.6194,
+      "lat": 48.258339
+    }
+  },
+  {
+    "id": 2776571,
+    "name": "Heimschuh",
+    "country": "AT",
+    "coord": {
+      "lon": 15.48333,
+      "lat": 46.75
+    }
+  },
+  {
+    "id": 2777677,
+    "name": "Heimschuh",
+    "country": "AT",
+    "coord": {
+      "lon": 15.49306,
+      "lat": 46.759998
+    }
+  },
+  {
+    "id": 7872958,
+    "name": "Großharras",
+    "country": "AT",
+    "coord": {
+      "lon": 16.24511,
+      "lat": 48.692909
+    }
+  },
+  {
+    "id": 2777685,
+    "name": "Grossharras",
+    "country": "AT",
+    "coord": {
+      "lon": 16.24556,
+      "lat": 48.663891
+    }
+  },
+  {
+    "id": 2777701,
+    "name": "Gross-Gerungs",
+    "country": "AT",
+    "coord": {
+      "lon": 14.95789,
+      "lat": 48.574219
+    }
+  },
+  {
+    "id": 7872862,
+    "name": "Groß-Enzersdorf",
+    "country": "AT",
+    "coord": {
+      "lon": 16.606569,
+      "lat": 48.189011
+    }
+  },
+  {
+    "id": 2777836,
+    "name": "Gross-Enzersdorf",
+    "country": "AT",
+    "coord": {
+      "lon": 16.550831,
+      "lat": 48.202782
+    }
+  },
+  {
+    "id": 7872957,
+    "name": "Groß-Engersdorf",
+    "country": "AT",
+    "coord": {
+      "lon": 16.583891,
+      "lat": 48.346771
+    }
+  },
+  {
+    "id": 2777839,
+    "name": "Gross-Engersdorf",
+    "country": "AT",
+    "coord": {
+      "lon": 16.566669,
+      "lat": 48.349998
+    }
+  },
+  {
+    "id": 7871841,
+    "name": "Großebersdorf",
+    "country": "AT",
+    "coord": {
+      "lon": 16.463881,
+      "lat": 48.367119
+    }
+  },
+  {
+    "id": 2777871,
+    "name": "Grossebersdorf",
+    "country": "AT",
+    "coord": {
+      "lon": 16.468679,
+      "lat": 48.362438
+    }
+  },
+  {
+    "id": 7872207,
+    "name": "Grödig",
+    "country": "AT",
+    "coord": {
+      "lon": 13.01535,
+      "lat": 47.734741
+    }
+  },
+  {
+    "id": 2777921,
+    "name": "Grodig",
+    "country": "AT",
+    "coord": {
+      "lon": 13.03333,
+      "lat": 47.73333
+    }
+  },
+  {
+    "id": 7873493,
+    "name": "Gröbming",
+    "country": "AT",
+    "coord": {
+      "lon": 13.84132,
+      "lat": 47.480419
+    }
+  },
+  {
+    "id": 2777927,
+    "name": "Grobming",
+    "country": "AT",
+    "coord": {
+      "lon": 13.90122,
+      "lat": 47.442719
+    }
+  },
+  {
+    "id": 7872578,
+    "name": "Grins",
+    "country": "AT",
+    "coord": {
+      "lon": 10.50472,
+      "lat": 47.153751
+    }
+  },
+  {
+    "id": 2777939,
+    "name": "Grins",
+    "country": "AT",
+    "coord": {
+      "lon": 10.51409,
+      "lat": 47.140339
+    }
+  },
+  {
+    "id": 7871861,
+    "name": "Grimmenstein",
+    "country": "AT",
+    "coord": {
+      "lon": 16.106911,
+      "lat": 47.621651
+    }
+  },
+  {
+    "id": 2777942,
+    "name": "Grimmenstein",
+    "country": "AT",
+    "coord": {
+      "lon": 16.133329,
+      "lat": 47.616669
+    }
+  },
+  {
+    "id": 7872534,
+    "name": "Gries im Sellrain",
+    "country": "AT",
+    "coord": {
+      "lon": 11.15095,
+      "lat": 47.185452
+    }
+  },
+  {
+    "id": 2777974,
+    "name": "Gries im Sellrain",
+    "country": "AT",
+    "coord": {
+      "lon": 11.15619,
+      "lat": 47.195541
+    }
+  },
+  {
+    "id": 7873606,
+    "name": "Gries am Brenner",
+    "country": "AT",
+    "coord": {
+      "lon": 11.49089,
+      "lat": 47.023209
+    }
+  },
+  {
+    "id": 2777992,
+    "name": "Gries am Brenner",
+    "country": "AT",
+    "coord": {
+      "lon": 11.48333,
+      "lat": 47.049999
+    }
+  },
+  {
+    "id": 7873027,
+    "name": "Gresten",
+    "country": "AT",
+    "coord": {
+      "lon": 15.02647,
+      "lat": 47.97649
+    }
+  },
+  {
+    "id": 2778011,
+    "name": "Gresten",
+    "country": "AT",
+    "coord": {
+      "lon": 15.02552,
+      "lat": 47.98521
+    }
+  },
+  {
+    "id": 7872264,
+    "name": "Gressenberg",
+    "country": "AT",
+    "coord": {
+      "lon": 15.09684,
+      "lat": 46.805561
+    }
+  },
+  {
+    "id": 2778013,
+    "name": "Gressenberg",
+    "country": "AT",
+    "coord": {
+      "lon": 15.11667,
+      "lat": 46.799999
+    }
+  },
+  {
+    "id": 7873352,
+    "name": "Greisdorf",
+    "country": "AT",
+    "coord": {
+      "lon": 15.18411,
+      "lat": 46.94117
+    }
+  },
+  {
+    "id": 2778035,
+    "name": "Greisdorf",
+    "country": "AT",
+    "coord": {
+      "lon": 15.21667,
+      "lat": 46.916672
+    }
+  },
+  {
+    "id": 7871653,
+    "name": "Greifenburg",
+    "country": "AT",
+    "coord": {
+      "lon": 13.17908,
+      "lat": 46.7631
+    }
+  },
+  {
+    "id": 2778048,
+    "name": "Greifenburg",
+    "country": "AT",
+    "coord": {
+      "lon": 13.17778,
+      "lat": 46.755829
+    }
+  },
+  {
+    "id": 7872331,
+    "name": "Gratwein",
+    "country": "AT",
+    "coord": {
+      "lon": 15.31931,
+      "lat": 47.128601
+    }
+  },
+  {
+    "id": 2778079,
+    "name": "Gratwein",
+    "country": "AT",
+    "coord": {
+      "lon": 15.31667,
+      "lat": 47.116669
+    }
+  },
+  {
+    "id": 7872330,
+    "name": "Gratkorn",
+    "country": "AT",
+    "coord": {
+      "lon": 15.36552,
+      "lat": 47.149658
+    }
+  },
+  {
+    "id": 2778085,
+    "name": "Gratkorn",
+    "country": "AT",
+    "coord": {
+      "lon": 15.35,
+      "lat": 47.133331
+    }
+  },
+  {
+    "id": 7872614,
+    "name": "Grän",
+    "country": "AT",
+    "coord": {
+      "lon": 10.56047,
+      "lat": 47.501629
+    }
+  },
+  {
+    "id": 2778127,
+    "name": "Graen",
+    "country": "AT",
+    "coord": {
+      "lon": 10.55,
+      "lat": 47.5
+    }
+  },
+  {
+    "id": 1511135,
+    "name": "Azovo",
+    "country": "RU",
+    "coord": {
+      "lon": 73.023666,
+      "lat": 54.699718
+    }
+  },
+  {
+    "id": 1511146,
+    "name": "Azanka",
+    "country": "RU",
+    "coord": {
+      "lon": 64.789268,
+      "lat": 58.040119
+    }
+  },
+  {
+    "id": 1511217,
+    "name": "Aya",
+    "country": "RU",
+    "coord": {
+      "lon": 85.801682,
+      "lat": 51.94532
+    }
+  },
+  {
+    "id": 1511276,
+    "name": "Atagay",
+    "country": "RU",
+    "coord": {
+      "lon": 99.387497,
+      "lat": 55.103298
+    }
+  },
+  {
+    "id": 1511303,
+    "name": "Askiz",
+    "country": "RU",
+    "coord": {
+      "lon": 90.428329,
+      "lat": 53.137218
+    }
+  },
+  {
+    "id": 1511361,
+    "name": "Artyshta",
+    "country": "RU",
+    "coord": {
+      "lon": 86.290901,
+      "lat": 54.1222
+    }
+  },
+  {
+    "id": 1511364,
+    "name": "Artybash",
+    "country": "RU",
+    "coord": {
+      "lon": 87.276108,
+      "lat": 51.792782
+    }
+  },
+  {
+    "id": 1511382,
+    "name": "Armizonskoye",
+    "country": "RU",
+    "coord": {
+      "lon": 67.673607,
+      "lat": 55.94611
+    }
+  },
+  {
+    "id": 1511538,
+    "name": "Antipino",
+    "country": "RU",
+    "coord": {
+      "lon": 65.757553,
+      "lat": 57.106789
+    }
+  },
+  {
+    "id": 1511646,
+    "name": "Andra",
+    "country": "RU",
+    "coord": {
+      "lon": 65.887779,
+      "lat": 62.514721
+    }
+  },
+  {
+    "id": 1511709,
+    "name": "Alzamay",
+    "country": "RU",
+    "coord": {
+      "lon": 98.664398,
+      "lat": 55.556198
+    }
+  },
+  {
+    "id": 1511846,
+    "name": "Aleksandrovskoye",
+    "country": "RU",
+    "coord": {
+      "lon": 85.390556,
+      "lat": 56.740829
+    }
+  },
+  {
+    "id": 1511997,
+    "name": "Aktash",
+    "country": "RU",
+    "coord": {
+      "lon": 87.73333,
+      "lat": 50.299999
+    }
+  },
+  {
+    "id": 1512064,
+    "name": "Ak-Dovurak",
+    "country": "RU",
+    "coord": {
+      "lon": 90.599998,
+      "lat": 51.183331
+    }
+  },
+  {
+    "id": 1512101,
+    "name": "Agirish",
+    "country": "RU",
+    "coord": {
+      "lon": 63.02306,
+      "lat": 61.924721
+    }
+  },
+  {
+    "id": 1512102,
+    "name": "Aginskoye",
+    "country": "RU",
+    "coord": {
+      "lon": 94.900002,
+      "lat": 55.259998
+    }
+  },
+  {
+    "id": 1512210,
+    "name": "Abatskoye",
+    "country": "RU",
+    "coord": {
+      "lon": 70.455528,
+      "lat": 56.287479
+    }
+  },
+  {
+    "id": 1512218,
+    "name": "Aban",
+    "country": "RU",
+    "coord": {
+      "lon": 96.059998,
+      "lat": 56.669998
+    }
+  },
+  {
+    "id": 1512223,
+    "name": "Abalak",
+    "country": "RU",
+    "coord": {
+      "lon": 68.594437,
+      "lat": 58.128609
+    }
+  },
+  {
+    "id": 1512238,
+    "name": "Abagur",
+    "country": "RU",
+    "coord": {
+      "lon": 87.252602,
+      "lat": 53.730801
+    }
+  },
+  {
+    "id": 1536648,
+    "name": "Istok",
+    "country": "RU",
+    "coord": {
+      "lon": 60.778889,
+      "lat": 56.790859
+    }
+  },
+  {
+    "id": 1537749,
+    "name": "Ilichevo",
+    "country": "RU",
+    "coord": {
+      "lon": 91.840279,
+      "lat": 53.278889
+    }
+  }
+]

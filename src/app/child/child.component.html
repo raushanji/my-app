@@ -1,0 +1,22 @@
+<p>
+  child works!
+  {{valueFromParent}}
+</p>
+
+<p>
+  {{valueFromSecond}}
+  </p>
+<div>
+  <p style="color:red;">Value from the Parent is {{valueFromParent | uppercase}} </p>
+
+  <p>{{dateValue | date : short}}</p>
+
+  <p>The hero's birthday is {{ birthday | date:format }}</p>
+  <button (click)="toggleFormat()">Toggle Format</button>
+</div>
+
+<div>
+  <label for="childInput">Child-Input </label>
+  <input type='text' id="childInput " #childValue (keyup)="onChange(childValue.value)">
+
+</div>
